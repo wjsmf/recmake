@@ -25,7 +25,6 @@
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="C:/Users/miles.shi/CLionProjects/squre"/>
-					<Add directory="C:/Users/miles.shi/CLionProjects/testDll/cmake-build-debug"/>
 					<Add directory="C:/Users/miles.shi/Downloads/codeblocks-16.01mingw-nosetup/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
 					<Add directory="C:/Users/miles.shi/Downloads/codeblocks-16.01mingw-nosetup/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
 					<Add directory="C:/Users/miles.shi/Downloads/codeblocks-16.01mingw-nosetup/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>
@@ -48,7 +47,6 @@
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="C:/Users/miles.shi/CLionProjects/squre"/>
-					<Add directory="C:/Users/miles.shi/CLionProjects/testDll/cmake-build-debug"/>
 					<Add directory="C:/Users/miles.shi/Downloads/codeblocks-16.01mingw-nosetup/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++"/>
 					<Add directory="C:/Users/miles.shi/Downloads/codeblocks-16.01mingw-nosetup/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/mingw32"/>
 					<Add directory="C:/Users/miles.shi/Downloads/codeblocks-16.01mingw-nosetup/MinGW/bin/../lib/gcc/mingw32/4.9.2/include/c++/backward"/>

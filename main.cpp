@@ -2,9 +2,9 @@
 #include <iostream>
 #include <cstdio>
 #include "Ball.h"
-#include "arj.h"
+#include "cmake-build-debug/arj.h"
 int main() {
-    Ball ball(3,67,"bali is the best one!!");
+    Ball ball(2,4,"fawef","iiiooo");
     std::cout << ball << std::endl;
 
     std::cout << INC_DIR << std::endl;
